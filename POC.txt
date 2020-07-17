@@ -1,0 +1,13 @@
+Hi ,
+  I found a cross site scripting bug XSS in your site .
+
+POC :
+open  below link 
+
+https://2key.io/QmX9fHw5Z8EyktQgX4HLrVgnY3rjDc9EQh16UJu4DDsjpd/cpc-preview?s=d87904a6fe79e0dd94d2c36a3b677cbd504ac50df516adb5a56f3d43a1e722f6&og_title=2key+Integrates+Kyber%27s+On-Chain+Liquidity+Protocol+for+Seamless+Token&og_description=We%E2%80%99re+glad+to+announce+that+2Key+Network+has+integrated+Kyber%E2%80%99s+on-chain+liquidity+protocol+to+enabl%22%3EScanT3r%3Csvg%2Fonload%3Dconfirm%28%2FScanT3r%2F%29%3Eweb%22&og_image=https%3A%2F%2F2key-prod-businesses.s3.amazonaws.com%2Fmedia%2F590%2Fc478fb26aa11f0f40fa021b53806e450-1589806307
+
+and XSS 
+Please find attachment .
+
+Thanks,
+Shailesh kumavat
